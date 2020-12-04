@@ -73,6 +73,6 @@ footer p {
   text-shadow: 1px 1px rgb(255, 51, 112);
 }
 
-.drum:hover {
+.animation {
   opacity: 0.5;
 }
